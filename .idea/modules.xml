@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BindAndValidatorTest/BindAndValidatorTest.iml" filepath="$PROJECT_DIR$/BindAndValidatorTest/BindAndValidatorTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileTest/FileTest.iml" filepath="$PROJECT_DIR$/FileTest/FileTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterceptorTest/InterceptorTest.iml" filepath="$PROJECT_DIR$/InterceptorTest/InterceptorTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVCTest/SpringMVCTest.iml" filepath="$PROJECT_DIR$/SpringMVCTest/SpringMVCTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringMVC_Learning.iml" filepath="$PROJECT_DIR$/.idea/SpringMVC_Learning.iml" />
+    </modules>
+  </component>
+</project>
